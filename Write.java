@@ -8,7 +8,7 @@ public class Write{
 		
 		try{
 			PrintWriter scrittore=new PrintWriter(Scritta);
-			scrittore.println("Ciao Mondo");
+			scrittore.println("Ciao Monttdo");
 			scrittore.println("Sono Sveglio");
 			
 			scrittore.close();
