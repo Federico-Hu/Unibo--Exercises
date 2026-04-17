@@ -37,6 +37,7 @@ public class Delimiter{
 					String data=reader.next();
 					System.out.println(data);
 				}
+				reader.close();
 		}
 		catch(FileNotFoundException e)
 		{
